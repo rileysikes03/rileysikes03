@@ -6,8 +6,7 @@
 
 <h2>📝 Certifications</h2>
 
-- [COMPTIA A+]{https://www.credly.com/badges/34ec039f-07f7-48d0-8604-5cc872bd9ff9/public_url}
-
+- [COMPTIA A+](https://www.credly.com/badges/34ec039f-07f7-48d0-8604-5cc872bd9ff9/public_url)
 
 <h2> 🤳 Connect with me on linkedin!</h2>
 
