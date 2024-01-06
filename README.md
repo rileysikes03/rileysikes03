@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-
+- [Home Network Project](https://github.com/rileysikes03/Home-Network-Project)
 
 <h2>📝 Certifications</h2>
 
