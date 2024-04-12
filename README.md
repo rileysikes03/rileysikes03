@@ -1,6 +1,6 @@
 <h1>Hi, I'm Riley! 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Home Network Project](https://github.com/rileysikes03/Home-Network-Project)
 
