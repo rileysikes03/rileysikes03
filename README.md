@@ -7,6 +7,7 @@
 <h2>📝 Certifications</h2>
 
 - [COMPTIA A+](https://www.credly.com/badges/34ec039f-07f7-48d0-8604-5cc872bd9ff9/public_url)
+- [GOOGLE CYBERSECURITY CERTIFICATE](https://www.coursera.org/account/accomplishments/professional-cert/FAGYFGC8RKF4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 <h2> 🤳 Connect with me on linkedin!</h2>
 
