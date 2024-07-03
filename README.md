@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [Home Network Project](https://github.com/rileysikes03/Home-Network-Project)
+- [SOAR Automation Project](https://github.com/rileysikes03/Soar-automation-lab)
 
 <h2>📝 Certifications</h2>
 
