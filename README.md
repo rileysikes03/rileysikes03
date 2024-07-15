@@ -4,6 +4,7 @@
 
 - [Home Network Project](https://github.com/rileysikes03/Home-Network-Project)
 - [SOAR Automation Project](https://github.com/rileysikes03/Soar-automation-lab)
+- [Windows Event Log / ART Detection](https://github.com/rileysikes03/WindowsEventLog-ARTDetection/blob/main/README.md)
 
 <h2>📝 Certifications</h2>
 
