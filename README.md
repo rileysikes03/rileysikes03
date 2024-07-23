@@ -5,7 +5,8 @@
 - [Home Network Project](https://github.com/rileysikes03/Home-Network-Project)
 - [SOAR Automation Project](https://github.com/rileysikes03/Soar-automation-lab)
 - [Windows Event Log / ART Detection](https://github.com/rileysikes03/WindowsEventLog-ARTDetection/blob/main/README.md)
-
+- [Malware Analysis Lab](https://github.com/rileysikes03/MalwareAnalysisLab/blob/main/README.md)
+- 
 <h2>📝 Certifications</h2>
 
 - [COMPTIA A+](https://www.credly.com/badges/34ec039f-07f7-48d0-8604-5cc872bd9ff9/public_url)
