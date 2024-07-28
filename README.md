@@ -6,6 +6,7 @@
 - [SOAR Automation Project](https://github.com/rileysikes03/Soar-automation-lab)
 - [Windows Event Log / ART Detection](https://github.com/rileysikes03/WindowsEventLog-ARTDetection/blob/main/README.md)
 - [Malware Analysis Lab](https://github.com/rileysikes03/MalwareAnalysisLab/blob/main/README.md)
+- [Network Monitoring with Snort and Zeek](https://github.com/rileysikes03/IDSZeekNetworkMonitoring)
   
 <h2>📝 Certifications</h2>
 
